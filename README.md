@@ -7,16 +7,21 @@ Current projects:
 - MRSbase library development - ongoing
 - MRSalgorithms library development - ongoing
 
-Modular robotics framework - paused
+- Modular robotics framework - paused
   - Status board - paused
   - mini AGV - paused
   - Swarm bot - paused
+
+
 
 ROS2 framework port - to begin December 2021
 
 - websites
   - main         : lmincrobotics.com
   - documentation : lmincrobotics.tech
+- repositories
+  - Files for multi robot systems : MRS
+  -   
 
 
 <!---
